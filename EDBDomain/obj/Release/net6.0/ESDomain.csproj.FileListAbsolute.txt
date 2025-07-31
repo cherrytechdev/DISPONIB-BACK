@@ -1,0 +1,48 @@
+F:\Emirates Steel\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.deps.json
+F:\Emirates Steel\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.dll
+F:\Emirates Steel\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.pdb
+F:\Emirates Steel\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.csproj.AssemblyReference.cache
+F:\Emirates Steel\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Emirates Steel\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.AssemblyInfoInputs.cache
+F:\Emirates Steel\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.AssemblyInfo.cs
+F:\Emirates Steel\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.csproj.CoreCompileInputs.cache
+F:\Emirates Steel\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.dll
+F:\Emirates Steel\ESAPI\EDBDomain\obj\Release\net6.0\refint\ESDomain.dll
+F:\Emirates Steel\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.pdb
+F:\Emirates Steel\ESAPI\EDBDomain\obj\Release\net6.0\ref\ESDomain.dll
+F:\MUR\Owen\API\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.deps.json
+F:\MUR\Owen\API\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.dll
+F:\MUR\Owen\API\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.pdb
+F:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.csproj.AssemblyReference.cache
+F:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.GeneratedMSBuildEditorConfig.editorconfig
+F:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.AssemblyInfoInputs.cache
+F:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.AssemblyInfo.cs
+F:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.csproj.CoreCompileInputs.cache
+F:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.dll
+F:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\refint\ESDomain.dll
+F:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.pdb
+F:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ref\ESDomain.dll
+E:\MUR\Owen\API\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.deps.json
+E:\MUR\Owen\API\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.dll
+E:\MUR\Owen\API\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.pdb
+E:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.csproj.AssemblyReference.cache
+E:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.AssemblyInfoInputs.cache
+E:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.AssemblyInfo.cs
+E:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.csproj.CoreCompileInputs.cache
+E:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.dll
+E:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\refint\ESDomain.dll
+E:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.pdb
+E:\MUR\Owen\API\ESAPI\EDBDomain\obj\Release\net6.0\ref\ESDomain.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.deps.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\bin\Release\net6.0\ESDomain.pdb
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.csproj.AssemblyReference.cache
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.AssemblyInfoInputs.cache
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.AssemblyInfo.cs
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.csproj.CoreCompileInputs.cache
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\obj\Release\net6.0\refint\ESDomain.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\obj\Release\net6.0\ESDomain.pdb
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\EDBDomain\obj\Release\net6.0\ref\ESDomain.dll

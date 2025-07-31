@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur1.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur1.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur2.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur2.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur3.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur3.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\disponib.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\disponib.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh2.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh2.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh3.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh3.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\2\\BusinessImages\\logo.mp4",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10003\\2\\BusinessImages\\logo.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em1.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em1.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em2.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em2.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\disponib.mp4",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\disponib.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\logonew.mp4",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\logonew.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur2.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur2.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur3.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur3.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\uae6.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\uae6.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\2\\BusinessImages\\disponib.mp4",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\10005\\2\\BusinessImages\\disponib.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\disponib.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\disponib.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img1.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img2.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img3.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\SiteImagesImages\\DISPONIB NAME LOGO.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\1\\SiteImagesImages\\DISPONIB NAME LOGO.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae1.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae1.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae2.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae2.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae3.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae3.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae4.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae4.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae6.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae6.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\SiteImagesImages\\sall size.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\2\\SiteImagesImages\\sall size.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\Screenshot 2023-08-01 103650.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\Screenshot 2023-08-01 103650.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\em2.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\em2.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\ms2.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\ms2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur2.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur2.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur3.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur3.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae3.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae3.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae4.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae4.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\Disponib logo.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\Disponib logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\WORDING disponib.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\WORDING disponib.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\2\\SiteImagesImages\\Disponib logo.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\10003\\2\\SiteImagesImages\\Disponib logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\1\\10007\\1\\BusinessImages\\Keba Jemeriah.png",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\1\\10007\\1\\BusinessImages\\Keba Jemeriah.png"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\1\\10007\\2\\BusinessImages\\SampleJPGImage_50kbmb.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\1\\10007\\2\\BusinessImages\\SampleJPGImage_50kbmb.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\1\\10007\\2\\BusinessImages\\SampleVideo_720x480_1mb.mp4",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\1\\10007\\2\\BusinessImages\\SampleVideo_720x480_1mb.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\1\\10007\\2\\BusinessImages\\SampleVideo_720x480_2mb.mp4",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\1\\10007\\2\\BusinessImages\\SampleVideo_720x480_2mb.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\8E71A2F4-FE9D-4C77-919C-D3504DCD1846\\10009\\1\\BusinessImages\\SampleJPGImage_50kbmb.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\8E71A2F4-FE9D-4C77-919C-D3504DCD1846\\10009\\1\\BusinessImages\\SampleJPGImage_50kbmb.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\8E71A2F4-FE9D-4C77-919C-D3504DCD1846\\10009\\1\\BusinessImages\\dubai.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\8E71A2F4-FE9D-4C77-919C-D3504DCD1846\\10009\\1\\BusinessImages\\dubai.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\E233DE07-3790-4F3E-BA33-AF477684010B\\4\\SiteImagesImages\\IMG-20250314-WA0010.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\E233DE07-3790-4F3E-BA33-AF477684010B\\4\\SiteImagesImages\\IMG-20250314-WA0010.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\E233DE07-3790-4F3E-BA33-AF477684010B\\4\\SiteImagesImages\\IMG-20250314-WA0011.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\E233DE07-3790-4F3E-BA33-AF477684010B\\4\\SiteImagesImages\\IMG-20250314-WA0011.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\E233DE07-3790-4F3E-BA33-AF477684010B\\AA3704F8-62AD-4666-A26D-C9A19B8A6897\\1\\BusinessImages\\SampleJPGImage_50kbmb.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\E233DE07-3790-4F3E-BA33-AF477684010B\\AA3704F8-62AD-4666-A26D-C9A19B8A6897\\1\\BusinessImages\\SampleJPGImage_50kbmb.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\F3D67416-B93D-4FC0-9185-BDECBE3B8CD1\\0D503C19-9561-42A5-9307-5A0186D125EA\\1\\BusinessImages\\dubai.jpg",
+      "PackagePath": "staticwebassets\\StaticFiles\\Resources\\Images\\F3D67416-B93D-4FC0-9185-BDECBE3B8CD1\\0D503C19-9561-42A5-9307-5A0186D125EA\\1\\BusinessImages\\dubai.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.ESAPI.props",
+      "PackagePath": "build\\ESAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ESAPI.props",
+      "PackagePath": "buildMultiTargeting\\ESAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.ESAPI.props",
+      "PackagePath": "buildTransitive\\ESAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

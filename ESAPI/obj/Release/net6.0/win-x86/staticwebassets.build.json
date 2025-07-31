@@ -1,0 +1,3730 @@
+{
+  "Version": 1,
+  "Hash": "Abhn8n0ycjBITE7Fe+4hL5V6l+BEIq3z+6udwIYGs1Q=",
+  "Source": "ESAPI",
+  "BasePath": "_content/ESAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ESAPI\\wwwroot",
+      "Source": "ESAPI",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\disponib.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/disponib#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jipb4p7hg3",
+      "Integrity": "FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\disponib.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img1.jpg",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x4532ypg48",
+      "Integrity": "wdbPeW+oZvttk4M7SXJJNMVGhlKAZtDP465u48tDgY8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img1.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img2.jpg",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9brdboxjl",
+      "Integrity": "w2r8WTO/EA4Bk8j2+i+LQ89LMJoWSy40brImNAbMnXc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img2.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img3.jpg",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pwxcmgy1j9",
+      "Integrity": "qaxcA0SN9iMy5IOyUkK+yts1MN/IDN8aqhs2zWNoHbg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img3.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\SiteImagesImages\\DISPONIB NAME LOGO.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/1/SiteImagesImages/DISPONIB NAME LOGO#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z78ihyrg6h",
+      "Integrity": "HyMPxiQVo0knlbWe3FVPwzadCnfAjghneiYedB+bJIM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\SiteImagesImages\\DISPONIB NAME LOGO.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur1.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jawu29l26b",
+      "Integrity": "+9TTAeqmqYJnJdM5DQZfXepismLp4htMH9OECsalOeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur2.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zt5j4wlzs3",
+      "Integrity": "uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur3.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vqyamfya9",
+      "Integrity": "fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur3.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\disponib.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/disponib#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jipb4p7hg3",
+      "Integrity": "FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\disponib.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh2.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/gh2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rnmosogyp9",
+      "Integrity": "twSBwGIHG9YER1YGmZpetU7imhJh1xANIYr4xyNpU/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh3.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/gh3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e19mtd8cb8",
+      "Integrity": "QuifDZlSkJMXJzDLDyr5OJKEPgQA5K9FHg+bsKu/pQU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh3.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\2\\BusinessImages\\logo.mp4",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10003/2/BusinessImages/logo#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1nftx6tahw",
+      "Integrity": "kyJZWc/up+TEAsoqsMdysrfG5xVKj+bznPgApJjOvFA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\2\\BusinessImages\\logo.mp4"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em1.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10004/1/BusinessImages/em1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "38c3ocyi1n",
+      "Integrity": "XTc5HZyukXXVUjNuRRmG/G5AKTEwOmECV7QBbpPfSv8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em2.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10004/1/BusinessImages/em2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "66b8ih5p5p",
+      "Integrity": "jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\disponib.mp4",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10004/2/BusinessImages/disponib#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pwgwvdxmuc",
+      "Integrity": "mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\disponib.mp4"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\logonew.mp4",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10004/2/BusinessImages/logonew#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y4klflhm5f",
+      "Integrity": "MsyJ9qzcnLsPs5Q/1q7qE9OTAEqBlo9ccFAv/xDOMkA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\logonew.mp4"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur2.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/mur2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zt5j4wlzs3",
+      "Integrity": "uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur3.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/mur3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vqyamfya9",
+      "Integrity": "fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur3.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\uae6.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/uae6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9bm5wg4dgm",
+      "Integrity": "yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\uae6.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\2\\BusinessImages\\disponib.mp4",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/10005/2/BusinessImages/disponib#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pwgwvdxmuc",
+      "Integrity": "mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\2\\BusinessImages\\disponib.mp4"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae1.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qiya5hnt3q",
+      "Integrity": "vnnA+TtVOPOjUR4EEww/vddO2QrR13U+GnVwocW1dXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae2.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gr0yzvjj16",
+      "Integrity": "pPg2Pn5heCPwCRk5InMCuPpwymIQYZksAlcXneQRkQM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae3.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "saao5uvvob",
+      "Integrity": "3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae3.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae4.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6wwth90glt",
+      "Integrity": "xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae4.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae6.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9bm5wg4dgm",
+      "Integrity": "yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae6.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\SiteImagesImages\\sall size.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/2/SiteImagesImages/sall size#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9te7hcvqo1",
+      "Integrity": "vRdqoZooRWpMSGhKE7kcm1eKlPA98iNeqisEkoN+/k4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\SiteImagesImages\\sall size.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\em2.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/em2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "66b8ih5p5p",
+      "Integrity": "jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\em2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\ms2.jpg",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/ms2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "brswj19lm7",
+      "Integrity": "l8CtZ31PiWEcmbBIsZB9V1JFFfRq6GH7nsYhj9cBUgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\ms2.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur2.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/mur2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zt5j4wlzs3",
+      "Integrity": "uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur3.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/mur3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vqyamfya9",
+      "Integrity": "fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur3.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\Screenshot 2023-08-01 103650.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/Screenshot 2023-08-01 103650#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vw7p68pd3p",
+      "Integrity": "sVX2by5b9W6YSA0IJVLQsMu07PiPIPy1aiG6uZF/3OU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\Screenshot 2023-08-01 103650.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae3.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/uae3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "saao5uvvob",
+      "Integrity": "3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae3.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae4.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/uae4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6wwth90glt",
+      "Integrity": "xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae4.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\Disponib logo.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10003/1/SiteImagesImages/Disponib logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y7spfih02f",
+      "Integrity": "HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\Disponib logo.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\WORDING disponib.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10003/1/SiteImagesImages/WORDING disponib#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iagk7x39f9",
+      "Integrity": "eoqxHGni72Ybq3qjHqDNR7XPg1ERnxJoblXziWuzGwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\WORDING disponib.png"
+    },
+    {
+      "Identity": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\2\\SiteImagesImages\\Disponib logo.png",
+      "SourceId": "ESAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\",
+      "BasePath": "_content/ESAPI",
+      "RelativePath": "StaticFiles/Resources/Images/10003/2/SiteImagesImages/Disponib logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y7spfih02f",
+      "Integrity": "HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StaticFiles\\Resources\\Images\\10003\\2\\SiteImagesImages\\Disponib logo.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/disponib.jipb4p7hg3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\disponib.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1772848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Aug 2023 00:44:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jipb4p7hg3"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/disponib.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/disponib.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\disponib.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1772848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Aug 2023 00:44:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img1.jpg",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wdbPeW+oZvttk4M7SXJJNMVGhlKAZtDP465u48tDgY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:34:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wdbPeW+oZvttk4M7SXJJNMVGhlKAZtDP465u48tDgY8="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img1.x4532ypg48.jpg",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wdbPeW+oZvttk4M7SXJJNMVGhlKAZtDP465u48tDgY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:34:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x4532ypg48"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wdbPeW+oZvttk4M7SXJJNMVGhlKAZtDP465u48tDgY8="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img2.f9brdboxjl.jpg",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "498026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w2r8WTO/EA4Bk8j2+i+LQ89LMJoWSy40brImNAbMnXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:34:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9brdboxjl"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w2r8WTO/EA4Bk8j2+i+LQ89LMJoWSy40brImNAbMnXc="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img2.jpg",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "498026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w2r8WTO/EA4Bk8j2+i+LQ89LMJoWSy40brImNAbMnXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:34:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w2r8WTO/EA4Bk8j2+i+LQ89LMJoWSy40brImNAbMnXc="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img3.jpg",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "369071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qaxcA0SN9iMy5IOyUkK+yts1MN/IDN8aqhs2zWNoHbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:34:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qaxcA0SN9iMy5IOyUkK+yts1MN/IDN8aqhs2zWNoHbg="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img3.pwxcmgy1j9.jpg",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\1\\BusinessImages\\img3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "369071"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qaxcA0SN9iMy5IOyUkK+yts1MN/IDN8aqhs2zWNoHbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:34:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pwxcmgy1j9"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/1/1/BusinessImages/img3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qaxcA0SN9iMy5IOyUkK+yts1MN/IDN8aqhs2zWNoHbg="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/SiteImagesImages/DISPONIB NAME LOGO.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\SiteImagesImages\\DISPONIB NAME LOGO.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HyMPxiQVo0knlbWe3FVPwzadCnfAjghneiYedB+bJIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HyMPxiQVo0knlbWe3FVPwzadCnfAjghneiYedB+bJIM="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/1/SiteImagesImages/DISPONIB NAME LOGO.z78ihyrg6h.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\1\\SiteImagesImages\\DISPONIB NAME LOGO.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19847"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HyMPxiQVo0knlbWe3FVPwzadCnfAjghneiYedB+bJIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z78ihyrg6h"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/1/SiteImagesImages/DISPONIB NAME LOGO.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HyMPxiQVo0knlbWe3FVPwzadCnfAjghneiYedB+bJIM="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur1.jawu29l26b.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2927988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+9TTAeqmqYJnJdM5DQZfXepismLp4htMH9OECsalOeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jawu29l26b"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+9TTAeqmqYJnJdM5DQZfXepismLp4htMH9OECsalOeM="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur1.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2927988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+9TTAeqmqYJnJdM5DQZfXepismLp4htMH9OECsalOeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+9TTAeqmqYJnJdM5DQZfXepismLp4htMH9OECsalOeM="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur2.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2394472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur2.zt5j4wlzs3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2394472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zt5j4wlzs3"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur3.8vqyamfya9.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2299761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vqyamfya9"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10002/1/BusinessImages/mur3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10002\\1\\BusinessImages\\mur3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2299761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/disponib.jipb4p7hg3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\disponib.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1772848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 23:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jipb4p7hg3"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/disponib.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/disponib.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\disponib.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1772848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 23:05:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXI/AT2gyW2kQDOxagvgDcypI3Pao+j+CsS0HMp/Jys="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/gh2.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2638902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"twSBwGIHG9YER1YGmZpetU7imhJh1xANIYr4xyNpU/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-twSBwGIHG9YER1YGmZpetU7imhJh1xANIYr4xyNpU/0="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/gh2.rnmosogyp9.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2638902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"twSBwGIHG9YER1YGmZpetU7imhJh1xANIYr4xyNpU/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rnmosogyp9"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/gh2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-twSBwGIHG9YER1YGmZpetU7imhJh1xANIYr4xyNpU/0="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/gh3.e19mtd8cb8.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1578677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QuifDZlSkJMXJzDLDyr5OJKEPgQA5K9FHg+bsKu/pQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e19mtd8cb8"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/gh3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QuifDZlSkJMXJzDLDyr5OJKEPgQA5K9FHg+bsKu/pQU="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10003/1/BusinessImages/gh3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\1\\BusinessImages\\gh3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1578677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QuifDZlSkJMXJzDLDyr5OJKEPgQA5K9FHg+bsKu/pQU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QuifDZlSkJMXJzDLDyr5OJKEPgQA5K9FHg+bsKu/pQU="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10003/2/BusinessImages/logo.1nftx6tahw.mp4",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\2\\BusinessImages\\logo.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "922763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kyJZWc/up+TEAsoqsMdysrfG5xVKj+bznPgApJjOvFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 22:58:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1nftx6tahw"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10003/2/BusinessImages/logo.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kyJZWc/up+TEAsoqsMdysrfG5xVKj+bznPgApJjOvFA="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10003/2/BusinessImages/logo.mp4",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10003\\2\\BusinessImages\\logo.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "922763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kyJZWc/up+TEAsoqsMdysrfG5xVKj+bznPgApJjOvFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 22:58:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kyJZWc/up+TEAsoqsMdysrfG5xVKj+bznPgApJjOvFA="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10004/1/BusinessImages/em1.38c3ocyi1n.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XTc5HZyukXXVUjNuRRmG/G5AKTEwOmECV7QBbpPfSv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 16:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "38c3ocyi1n"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10004/1/BusinessImages/em1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XTc5HZyukXXVUjNuRRmG/G5AKTEwOmECV7QBbpPfSv8="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10004/1/BusinessImages/em1.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517031"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XTc5HZyukXXVUjNuRRmG/G5AKTEwOmECV7QBbpPfSv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 16:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XTc5HZyukXXVUjNuRRmG/G5AKTEwOmECV7QBbpPfSv8="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10004/1/BusinessImages/em2.66b8ih5p5p.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1629014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 16:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "66b8ih5p5p"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10004/1/BusinessImages/em2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10004/1/BusinessImages/em2.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\1\\BusinessImages\\em2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1629014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 16:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10004/2/BusinessImages/disponib.mp4",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\disponib.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36269140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 16:49:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10004/2/BusinessImages/disponib.pwgwvdxmuc.mp4",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\disponib.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36269140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 16:49:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pwgwvdxmuc"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10004/2/BusinessImages/disponib.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10004/2/BusinessImages/logonew.mp4",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\logonew.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MsyJ9qzcnLsPs5Q/1q7qE9OTAEqBlo9ccFAv/xDOMkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Aug 2023 00:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsyJ9qzcnLsPs5Q/1q7qE9OTAEqBlo9ccFAv/xDOMkA="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10004/2/BusinessImages/logonew.y4klflhm5f.mp4",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10004\\2\\BusinessImages\\logonew.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "560467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MsyJ9qzcnLsPs5Q/1q7qE9OTAEqBlo9ccFAv/xDOMkA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Aug 2023 00:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y4klflhm5f"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10004/2/BusinessImages/logonew.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsyJ9qzcnLsPs5Q/1q7qE9OTAEqBlo9ccFAv/xDOMkA="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/mur2.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2394472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 03:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/mur2.zt5j4wlzs3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2394472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 03:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zt5j4wlzs3"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/mur2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/mur3.8vqyamfya9.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2299761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 03:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vqyamfya9"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/mur3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/mur3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\mur3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2299761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 03:46:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/uae6.9bm5wg4dgm.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\uae6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2096020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 03:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9bm5wg4dgm"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/uae6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10005/1/BusinessImages/uae6.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\1\\BusinessImages\\uae6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2096020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 03:46:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10005/2/BusinessImages/disponib.mp4",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\2\\BusinessImages\\disponib.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36269140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 03:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/10005/2/BusinessImages/disponib.pwgwvdxmuc.mp4",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\10005\\2\\BusinessImages\\disponib.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36269140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 03:47:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pwgwvdxmuc"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/10005/2/BusinessImages/disponib.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mYCUl9paVeVooM/6+3/Ytd2vmVDsL4Qtba46xdyaNb4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae1.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2484624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vnnA+TtVOPOjUR4EEww/vddO2QrR13U+GnVwocW1dXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vnnA+TtVOPOjUR4EEww/vddO2QrR13U+GnVwocW1dXo="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae1.qiya5hnt3q.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2484624"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vnnA+TtVOPOjUR4EEww/vddO2QrR13U+GnVwocW1dXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qiya5hnt3q"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vnnA+TtVOPOjUR4EEww/vddO2QrR13U+GnVwocW1dXo="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae2.gr0yzvjj16.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1585650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPg2Pn5heCPwCRk5InMCuPpwymIQYZksAlcXneQRkQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gr0yzvjj16"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pPg2Pn5heCPwCRk5InMCuPpwymIQYZksAlcXneQRkQM="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae2.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1585650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPg2Pn5heCPwCRk5InMCuPpwymIQYZksAlcXneQRkQM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pPg2Pn5heCPwCRk5InMCuPpwymIQYZksAlcXneQRkQM="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2281175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae3.saao5uvvob.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2281175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "saao5uvvob"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae4.6wwth90glt.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1498408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6wwth90glt"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae4.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1498408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae6.9bm5wg4dgm.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2096020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9bm5wg4dgm"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/1/BusinessImages/uae6.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\1\\BusinessImages\\uae6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2096020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:33:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yx8gxjrWZCrUiHPEW9dvr12mXY90Pr7SvbKW3s+d+0I="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/SiteImagesImages/sall size.9te7hcvqo1.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\SiteImagesImages\\sall size.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vRdqoZooRWpMSGhKE7kcm1eKlPA98iNeqisEkoN+/k4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:58:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9te7hcvqo1"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/2/SiteImagesImages/sall size.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vRdqoZooRWpMSGhKE7kcm1eKlPA98iNeqisEkoN+/k4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/2/SiteImagesImages/sall size.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\2\\SiteImagesImages\\sall size.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15979"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vRdqoZooRWpMSGhKE7kcm1eKlPA98iNeqisEkoN+/k4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 17:58:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vRdqoZooRWpMSGhKE7kcm1eKlPA98iNeqisEkoN+/k4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/em2.66b8ih5p5p.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\em2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1629014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 04:09:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "66b8ih5p5p"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/em2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/em2.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\em2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1629014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 04:09:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jrAQd9G0FvxO9xRRdiCxp/mPk3WJJJU0DKG2DHH/rxo="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/ms2.brswj19lm7.jpg",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\ms2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "823891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8CtZ31PiWEcmbBIsZB9V1JFFfRq6GH7nsYhj9cBUgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:15:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "brswj19lm7"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/ms2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8CtZ31PiWEcmbBIsZB9V1JFFfRq6GH7nsYhj9cBUgE="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/ms2.jpg",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\ms2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "823891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l8CtZ31PiWEcmbBIsZB9V1JFFfRq6GH7nsYhj9cBUgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:15:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l8CtZ31PiWEcmbBIsZB9V1JFFfRq6GH7nsYhj9cBUgE="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/mur2.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2394472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:16:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/mur2.zt5j4wlzs3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2394472"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:16:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zt5j4wlzs3"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/mur2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUegQoRKYui4/kwbipwGd38WkfHfrKCCfxuI6M+Xjbk="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/mur3.8vqyamfya9.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2299761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 22:23:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vqyamfya9"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/mur3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/mur3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\mur3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2299761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 22:23:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fHHoLCs+bhSXUr63InLY9XarmzydhpECRX2eDo7k/48="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/Screenshot 2023-08-01 103650.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\Screenshot 2023-08-01 103650.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1789032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sVX2by5b9W6YSA0IJVLQsMu07PiPIPy1aiG6uZF/3OU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sVX2by5b9W6YSA0IJVLQsMu07PiPIPy1aiG6uZF/3OU="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/Screenshot 2023-08-01 103650.vw7p68pd3p.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\Screenshot 2023-08-01 103650.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1789032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sVX2by5b9W6YSA0IJVLQsMu07PiPIPy1aiG6uZF/3OU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vw7p68pd3p"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/Screenshot 2023-08-01 103650.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sVX2by5b9W6YSA0IJVLQsMu07PiPIPy1aiG6uZF/3OU="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/uae3.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2281175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:43:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/uae3.saao5uvvob.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2281175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:43:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "saao5uvvob"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/uae3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3KgO/omW//fuMVduhBNRnnckms3tto5NLCpkDX5OAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/uae4.6wwth90glt.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1498408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:42:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6wwth90glt"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/uae4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10002/4/SiteImagesImages/uae4.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10002\\4\\SiteImagesImages\\uae4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1498408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Jul 2023 18:42:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xsDVxf4fct8kdv8QvhjqQUS9D+uQdBuJXyR45hBvTn4="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10003/1/SiteImagesImages/Disponib logo.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\Disponib logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Aug 2023 14:43:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10003/1/SiteImagesImages/Disponib logo.y7spfih02f.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\Disponib logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Aug 2023 14:43:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7spfih02f"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10003/1/SiteImagesImages/Disponib logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10003/1/SiteImagesImages/WORDING disponib.iagk7x39f9.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\WORDING disponib.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eoqxHGni72Ybq3qjHqDNR7XPg1ERnxJoblXziWuzGwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Aug 2023 14:43:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iagk7x39f9"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10003/1/SiteImagesImages/WORDING disponib.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eoqxHGni72Ybq3qjHqDNR7XPg1ERnxJoblXziWuzGwc="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10003/1/SiteImagesImages/WORDING disponib.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\1\\SiteImagesImages\\WORDING disponib.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eoqxHGni72Ybq3qjHqDNR7XPg1ERnxJoblXziWuzGwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Aug 2023 14:43:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eoqxHGni72Ybq3qjHqDNR7XPg1ERnxJoblXziWuzGwc="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10003/2/SiteImagesImages/Disponib logo.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\2\\SiteImagesImages\\Disponib logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Aug 2023 14:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY="
+        }
+      ]
+    },
+    {
+      "Route": "StaticFiles/Resources/Images/10003/2/SiteImagesImages/Disponib logo.y7spfih02f.png",
+      "AssetFile": "D:\\Projects\\diponib\\backend\\24_02_2025\\ESAPI0221\\ESAPI\\ESAPI\\wwwroot\\StaticFiles\\Resources\\Images\\10003\\2\\SiteImagesImages\\Disponib logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Aug 2023 14:44:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7spfih02f"
+        },
+        {
+          "Name": "label",
+          "Value": "StaticFiles/Resources/Images/10003/2/SiteImagesImages/Disponib logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HmIA4Y3gF6NsC0Nqv468pVIZMz2QUsrGbQQE4nVhyyY="
+        }
+      ]
+    }
+  ]
+}

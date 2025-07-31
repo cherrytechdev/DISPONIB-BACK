@@ -1,0 +1,900 @@
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.AssemblyReference.cache
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfoInputs.cache
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfo.cs
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.CoreCompileInputs.cache
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.json
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.exe
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.deps.json
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.runtimeconfig.json
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.pdb
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extras.CommonServiceLocator.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Core.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\CelloMicros.ConfigurationProvider.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\CommonServiceLocator.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.WebKey.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.pdb
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.pdb
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.pdb
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ESAPI.props
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ESAPI.props
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ESAPI.props
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\scopedcss\bundle\ESAPI.styles.css
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.CopyComplete
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.dll
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\refint\ESAPI.dll
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.pdb
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.genruntimeconfig.cache
+F:\Emirates Steel\ESAPI\ESAPI\obj\Debug\net6.0\ref\ESAPI.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\MailKit.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\MimeKit.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.OData.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Core.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Spatial.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Core.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Dynamic.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V3.Adapter.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V4.Adapter.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.Spatial.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\de\System.Spatial.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\es\System.Spatial.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\it\System.Spatial.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Emirates Steel\ESAPI\ESAPI\bin\Debug\net6.0\ODataHttpClient.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.json
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.exe
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.deps.json
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.runtimeconfig.json
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.pdb
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extras.CommonServiceLocator.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Core.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\CelloMicros.ConfigurationProvider.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\CommonServiceLocator.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MailKit.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.WebKey.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.OData.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Core.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Spatial.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MimeKit.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ODataHttpClient.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Core.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Dynamic.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V3.Adapter.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V4.Adapter.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Spatial.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\de\System.Spatial.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\es\System.Spatial.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\it\System.Spatial.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.pdb
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.pdb
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.pdb
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.AssemblyReference.cache
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfoInputs.cache
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfo.cs
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.CoreCompileInputs.cache
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\scopedcss\bundle\ESAPI.styles.css
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.CopyComplete
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\refint\ESAPI.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.pdb
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.genruntimeconfig.cache
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ref\ESAPI.dll
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ESAPI.props
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ESAPI.props
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ESAPI.props
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.staticwebassets.runtime.json
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.json
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.staticwebassets.runtime.json
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.staticwebassets.endpoints.json
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.exe
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.deps.json
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.runtimeconfig.json
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.pdb
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extras.CommonServiceLocator.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\CelloMicros.ConfigurationProvider.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\CommonServiceLocator.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MailKit.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.WebKey.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.OData.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Core.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Spatial.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\MimeKit.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ODataHttpClient.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Core.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Dynamic.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V3.Adapter.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V4.Adapter.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Spatial.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\de\System.Spatial.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\es\System.Spatial.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\it\System.Spatial.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.pdb
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.pdb
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.pdb
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.AssemblyReference.cache
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfoInputs.cache
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfo.cs
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.CoreCompileInputs.cache
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\scopedcss\bundle\ESAPI.styles.css
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ESAPI.props
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ESAPI.props
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ESAPI.props
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.Up2Date
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\refint\ESAPI.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.pdb
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.genruntimeconfig.cache
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\ref\ESAPI.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+E:\MUR\Owen\API\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.staticwebassets.runtime.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.staticwebassets.endpoints.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.exe
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.deps.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.runtimeconfig.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.pdb
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extras.CommonServiceLocator.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\CelloMicros.ConfigurationProvider.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\CommonServiceLocator.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MailKit.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.OData.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Core.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Spatial.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MimeKit.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ODataHttpClient.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Core.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Dynamic.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V3.Adapter.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V4.Adapter.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Spatial.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\de\System.Spatial.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\es\System.Spatial.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\it\System.Spatial.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.pdb
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.pdb
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.pdb
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.AssemblyReference.cache
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfoInputs.cache
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfo.cs
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.CoreCompileInputs.cache
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\scopedcss\bundle\ESAPI.styles.css
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ESAPI.props
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ESAPI.props
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ESAPI.props
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.Up2Date
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\refint\ESAPI.dll
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.pdb
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.genruntimeconfig.cache
+D:\Projects\diponib\backend\24_02_2025\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ref\ESAPI.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.staticwebassets.runtime.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.staticwebassets.endpoints.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.exe
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.deps.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.runtimeconfig.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.pdb
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extras.CommonServiceLocator.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Core.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\CelloMicros.ConfigurationProvider.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\CommonServiceLocator.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MailKit.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.WebKey.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.OData.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Core.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Spatial.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\MimeKit.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ODataHttpClient.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Core.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Dynamic.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V3.Adapter.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V4.Adapter.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Spatial.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\de\System.Spatial.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\es\System.Spatial.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\it\System.Spatial.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.pdb
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.pdb
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.pdb
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.AssemblyReference.cache
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfoInputs.cache
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfo.cs
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.CoreCompileInputs.cache
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\scopedcss\bundle\ESAPI.styles.css
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.ESAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ESAPI.props
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ESAPI.props
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ESAPI.props
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.Up2Date
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\refint\ESAPI.dll
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.pdb
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.genruntimeconfig.cache
+E:\MUR\17-03-2025\17-03-2025\backend\ESAPI0221\ESAPI\ESAPI\obj\Debug\net6.0\ref\ESAPI.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.json
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.staticwebassets.runtime.json
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.exe
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.deps.json
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.runtimeconfig.json
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESAPI.pdb
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Autofac.Extras.CommonServiceLocator.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\CelloMicros.ConfigurationProvider.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\CommonServiceLocator.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\MailKit.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Data.OData.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Core.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Spatial.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\MimeKit.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ODataHttpClient.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Core.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.Dynamic.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V3.Adapter.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Simple.OData.Client.V4.Adapter.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.Spatial.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\de\System.Spatial.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\es\System.Spatial.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\it\System.Spatial.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESInfrastructure.pdb
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESApplication.pdb
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\bin\Debug\net6.0\ESDomain.pdb
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.AssemblyReference.cache
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfoInputs.cache
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.AssemblyInfo.cs
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.CoreCompileInputs.cache
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\scopedcss\bundle\ESAPI.styles.css
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\refint\ESAPI.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.pdb
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.genruntimeconfig.cache
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ref\ESAPI.dll
+D:\Stage\Pan\all code\disponib\ESAPI\ESAPI\obj\Debug\net6.0\ESAPI.csproj.CopyComplete
